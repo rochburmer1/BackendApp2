@@ -1,0 +1,11 @@
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\bin\Debug\net9.0\ApplicationCore.deps.json
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\bin\Debug\net9.0\ApplicationCore.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\bin\Debug\net9.0\ApplicationCore.pdb
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfo.cs
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\refint\ApplicationCore.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.pdb
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ref\ApplicationCore.dll

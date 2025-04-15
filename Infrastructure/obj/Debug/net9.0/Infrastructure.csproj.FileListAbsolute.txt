@@ -1,0 +1,17 @@
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\ApplicationCore.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\bin\Debug\net9.0\ApplicationCore.pdb
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
