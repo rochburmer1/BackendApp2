@@ -292,3 +292,4 @@ D:\Users\roch.burmer\RiderProjects\BackEndApp2\WebApi\obj\Debug\net9.0\WebApi.ge
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\WebApi\obj\Debug\net9.0\ref\WebApi.dll
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\WebApi\bin\Debug\net9.0\JWT.dll
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json

@@ -32,7 +32,7 @@ namespace WebApi.Controllers
             var result = await signInManager.CheckPasswordSignInAsync(user, dto.Password, false);
             if (result.Succeeded)
             {
-                return Ok(new { message = "User Login" });
+                return Ok(new { token = CreateToken(user)});
             }
             else
             {

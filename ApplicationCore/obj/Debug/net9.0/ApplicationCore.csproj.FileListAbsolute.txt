@@ -9,3 +9,4 @@ D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\refint\ApplicationCore.dll
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.pdb
 D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ref\ApplicationCore.dll
+D:\Users\roch.burmer\RiderProjects\BackEndApp2\ApplicationCore\obj\Debug\net9.0\ApplicationCore.sourcelink.json
